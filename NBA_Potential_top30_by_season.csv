@@ -1,0 +1,501 @@
+Season,Rank,Player,Team,Pos,Round,Pick,pred_proba,Recommendation,NBA,NBA_YOS
+2015-16,1,Ben Bentil,Providence,G,2.0,51.0,0.9273496240601503,NBA Potential,1.0,1.0
+2015-16,2,Wade Baldwin IV,Vanderbilt,G,1.0,17.0,0.9268496240601504,NBA Potential,1.0,3.0
+2015-16,3,Jamal Murray,Kentucky,G,1.0,7.0,0.9198496240601504,NBA Potential,1.0,9.0
+2015-16,4,Malik Beasley,Florida State,G,1.0,19.0,0.9198496240601504,NBA Potential,1.0,9.0
+2015-16,5,Patrick McCaw,UNLV,G,2.0,38.0,0.9018901098901099,NBA Potential,1.0,5.0
+2015-16,6,Jakob Poeltl,Utah,F,1.0,9.0,0.9013880855986119,NBA Potential,1.0,10.0
+2015-16,7,Dejounte Murray,Washington,G,1.0,29.0,0.9007781954887217,NBA Potential,1.0,8.0
+2015-16,8,Marquese Chriss,Washington,F,1.0,8.0,0.8883496240601503,NBA Potential,1.0,6.0
+2015-16,9,Marcus Georges-Hunt,Georgia Tech,G,0.0,0.0,0.8871115288220548,NBA Potential,1.0,2.0
+2015-16,10,Domantas Sabonis,Gonzaga,G,1.0,11.0,0.8753496240601504,NBA Potential,1.0,10.0
+2015-16,11,Denzel Valentine,Michigan State,G,1.0,14.0,0.8708496240601503,NBA Potential,1.0,5.0
+2015-16,12,Brandon Ingram,Duke,F,1.0,2.0,0.870452380952381,NBA Potential,1.0,10.0
+2015-16,13,Pascal Siakam,New Mexico State,G,1.0,27.0,0.8641829573934835,NBA Potential,1.0,10.0
+2015-16,14,Tyrone Wallace,California,G,2.0,60.0,0.8613020050125314,NBA Potential,1.0,4.0
+2015-16,15,Kyle Collinsworth,Brigham Young,G,0.0,0.0,0.851388085598612,NBA Potential,1.0,1.0
+2015-16,16,Henry Ellenson,Marquette,G,1.0,18.0,0.8506353383458647,NBA Potential,1.0,5.0
+2015-16,17,Jarrod Uthoff,Iowa,G,0.0,0.0,0.8484210526315789,NBA Potential,1.0,2.0
+2015-16,18,Kris Dunn,Providence,G,1.0,5.0,0.8484210526315789,NBA Potential,1.0,10.0
+2015-16,19,Daniel Hamilton,Connecticut,G,2.0,56.0,0.8467781954887215,NBA Potential,1.0,2.0
+2015-16,20,Jaylen Brown,California,F,1.0,3.0,0.8424051796157059,NBA Potential,1.0,10.0
+2015-16,21,Chinanu Onuaku,Louisville,F,2.0,37.0,0.8397012987012985,NBA Potential,1.0,2.0
+2015-16,22,Brice Johnson,North Carolina,F,1.0,25.0,0.8394833236938499,NBA Potential,1.0,2.0
+2015-16,23,Tyler Ulis,Kentucky,G,2.0,34.0,0.8379051796157059,NBA Potential,1.0,3.0
+2015-16,24,Georges Niang,Iowa State,F,2.0,50.0,0.8371115288220553,NBA Potential,1.0,9.0
+2015-16,25,Demetrius Jackson,Notre Dame,G,2.0,45.0,0.8341353383458646,NBA Potential,1.0,3.0
+2015-16,26,Gary Payton II,Oregon State,G,0.0,0.0,0.832340466550993,NBA Potential,1.0,10.0
+2015-16,27,Deyonta Davis,Michigan State,F,2.0,31.0,0.8317012987012987,NBA Potential,1.0,3.0
+2015-16,28,Taurean Prince,Baylor,F,1.0,12.0,0.8231573163678426,NBA Potential,1.0,10.0
+2015-16,29,Diamond Stone,Maryland,C,2.0,40.0,0.8176957779063041,NBA Potential,1.0,1.0
+2015-16,30,Kyle Wiltjer,Gonzaga,F,0.0,0.0,0.817468671679198,NBA Potential,1.0,1.0
+2015-16,31,Malcolm Brogdon,Virginia,G,2.0,36.0,0.8154234234234234,NBA Potential,1.0,9.0
+2015-16,32,Troy Williams,Indiana,F,0.0,0.0,0.8150877192982456,NBA Potential,1.0,3.0
+2015-16,33,Isaiah Taylor,Texas,G,0.0,0.0,0.8131539718862374,NBA Potential,1.0,2.0
+2015-16,34,Ryan Anderson,Arizona,F,0.0,0.0,0.8006375028480293,NBA Potential,1.0,4.0
+2015-16,35,Dorian Finney-Smith,Florida,F,0.0,0.0,0.7986375028480291,NBA Potential,1.0,9.0
+2015-16,36,Matt Costello,Michigan State,F,0.0,0.0,0.7978496240601504,NBA Potential,1.0,1.0
+2015-16,37,Derrick Jones Jr.,UNLV,F,0.0,0.0,0.7974045691150954,NBA Potential,1.0,10.0
+2015-16,38,Ben Simmons,Louisiana State,G,1.0,1.0,0.7955250626566416,NBA Potential,1.0,7.0
+2015-16,39,Jaysean Paige,West Virginia,G,0.0,0.0,0.783137502848029,NBA Potential,1.0,1.0
+2015-16,40,Daniel Ochefu,Villanova,F,0.0,0.0,0.7816353383458645,NBA Potential,1.0,1.0
+2015-16,41,Buddy Hield,Oklahoma,G,1.0,6.0,0.7807846320346321,NBA Potential,1.0,10.0
+2015-16,42,Ryan Arcidiacono,Villanova,G,0.0,0.0,0.7653041695146958,NBA Potential,1.0,7.0
+2015-16,43,Malachi Richardson,Syracuse,G,1.0,22.0,0.7639236981342244,NBA Potential,1.0,3.0
+2015-16,44,Skal Labissiere,Kentucky,F,1.0,28.0,0.7593591000913655,NBA Potential,1.0,5.0
+2015-16,45,Damion Lee,Louisville,G,0.0,0.0,0.7551778093883357,NBA Potential,1.0,7.0
+2015-16,46,Yogi Ferrell,Indiana,G,0.0,0.0,0.7528609595714858,NBA Potential,1.0,5.0
+2015-16,47,Michael Gbinije,Syracuse,F,2.0,49.0,0.7397763249079038,NBA Potential,1.0,1.0
+2015-16,48,Joel Bolomboy,Weber State,G,2.0,52.0,0.7344542124542125,NBA Potential,1.0,2.0
+2015-16,49,Gabe York,Arizona,G,0.0,0.0,0.7339821572144226,NBA Potential,1.0,2.0
+2015-16,50,Damian Jones,Vanderbilt,C,1.0,30.0,0.7242683542601307,NBA Potential,1.0,8.0
+2016-17,1,Tyler Lydon,Syracuse,F,1.0,24.0,0.9398496240601503,NBA Potential,1.0,2.0
+2016-17,2,Jayson Tatum,Duke,F,1.0,3.0,0.9393496240601504,NBA Potential,1.0,8.0
+2016-17,3,Jonathan Isaac,Florida State,F,1.0,6.0,0.9393496240601504,NBA Potential,1.0,7.0
+2016-17,4,Thomas Bryant,Indiana,C,2.0,42.0,0.9348496240601504,NBA Potential,1.0,9.0
+2016-17,5,Derrick White,Colorado,G,1.0,29.0,0.9236778093883358,NBA Potential,1.0,9.0
+2016-17,6,De'Aaron Fox,Kentucky,G,1.0,5.0,0.9211778093883357,NBA Potential,1.0,8.0
+2016-17,7,Tyler Dorsey,Oregon,G,2.0,41.0,0.9211778093883357,NBA Potential,1.0,3.0
+2016-17,8,Donovan Mitchell,Louisville,G,1.0,13.0,0.9186778093883359,NBA Potential,1.0,9.0
+2016-17,9,Johnathan Motley,Baylor,F,0.0,0.0,0.9078901098901099,NBA Potential,1.0,3.0
+2016-17,10,Dennis Smith Jr.,NC State,G,1.0,9.0,0.9062781954887218,NBA Potential,1.0,7.0
+2016-17,11,Devin Robinson,Florida,F,0.0,0.0,0.9020162907268169,NBA Potential,1.0,2.0
+2016-17,12,Ben Moore,SMU,F,0.0,0.0,0.9013880855986119,NBA Potential,1.0,1.0
+2016-17,13,Dillon Brooks,Oregon,F,2.0,45.0,0.9013880855986119,NBA Potential,1.0,9.0
+2016-17,14,Ivan Rabb,California,F,2.0,35.0,0.9013880855986119,NBA Potential,1.0,2.0
+2016-17,15,Jawun Evans,Oklahoma State,G,2.0,39.0,0.9013880855986119,NBA Potential,1.0,2.0
+2016-17,16,Malcolm Hill,Illinois,G,0.0,0.0,0.9013880855986119,NBA Potential,1.0,2.0
+2016-17,17,Sindarius Thornwell,South Carolina,F,2.0,48.0,0.9013880855986119,NBA Potential,1.0,4.0
+2016-17,18,Davon Reed,Miami (FL),G,2.0,32.0,0.9000162907268171,NBA Potential,1.0,4.0
+2016-17,19,Lauri Markkanen,Arizona,F,1.0,7.0,0.897221418931945,NBA Potential,1.0,9.0
+2016-17,20,Andrew White III,Syracuse,G,0.0,0.0,0.8912781954887219,NBA Potential,1.0,1.0
+2016-17,21,Sterling Brown,SMU,G,2.0,46.0,0.8912781954887219,NBA Potential,1.0,6.0
+2016-17,22,Luke Kennard,Duke,G,1.0,12.0,0.8886957779063043,NBA Potential,1.0,9.0
+2016-17,23,Josh Jackson,Kansas,G,1.0,4.0,0.8866957779063043,NBA Potential,1.0,5.0
+2016-17,24,Dwayne Bacon,Florida State,F,2.0,40.0,0.8843496240601503,NBA Potential,1.0,4.0
+2016-17,25,Charles Cooke,Dayton,G,0.0,0.0,0.8841353383458646,NBA Potential,1.0,1.0
+2016-17,26,Markelle Fultz,Washington,G,1.0,1.0,0.8841353383458646,NBA Potential,1.0,8.0
+2016-17,27,Semi Ojeleye,SMU,G,2.0,37.0,0.8723496240601504,NBA Potential,1.0,5.0
+2016-17,28,Jarrett Allen,Texas,F,1.0,22.0,0.8718496240601503,NBA Potential,1.0,9.0
+2016-17,29,Cameron Oliver,Nevada,G,0.0,0.0,0.8718444760550025,NBA Potential,1.0,2.0
+2016-17,30,De'Anthony Melton,Southern California,G,2.0,46.0,0.8653496240601504,NBA Potential,1.0,7.0
+2016-17,31,Bam Adebayo,Kentucky,F,1.0,14.0,0.8644523809523811,NBA Potential,1.0,9.0
+2016-17,32,Josh Hart,Villanova,G,1.0,30.0,0.8573496240601504,NBA Potential,1.0,9.0
+2016-17,33,Deonte Burton,Iowa State,G,0.0,0.0,0.8484210526315789,NBA Potential,1.0,3.0
+2016-17,34,Edmond Sumner,Xavier,G,2.0,52.0,0.8484210526315789,NBA Potential,1.0,5.0
+2016-17,35,Isaiah Briscoe,Kentucky,G,0.0,0.0,0.8394051796157059,NBA Potential,1.0,1.0
+2016-17,36,Jamel Artis,Pittsburgh,G,0.0,0.0,0.8387827742433007,NBA Potential,1.0,1.0
+2016-17,37,OG Anunoby,Indiana,F,1.0,23.0,0.8341353383458646,NBA Potential,1.0,9.0
+2016-17,38,Jaron Blossomgame,Clemson,F,2.0,59.0,0.8287781954887219,NBA Potential,1.0,1.0
+2016-17,39,Jabari Bird,California,G,2.0,56.0,0.8239951267056529,NBA Potential,1.0,1.0
+2016-17,40,Justin Patton,Creighton,C,1.0,16.0,0.8233583959899748,NBA Potential,1.0,4.0
+2016-17,41,Troy Caupain,Cincinnati,G,0.0,0.0,0.8206539718862373,NBA Potential,1.0,1.0
+2016-17,42,Caleb Swanigan,Purdue,G,1.0,26.0,0.8150877192982456,NBA Potential,1.0,3.0
+2016-17,43,Lonzo Ball,UCLA,G,1.0,2.0,0.8150877192982456,NBA Potential,1.0,7.0
+2016-17,44,Chris Boucher,Oregon,F,0.0,0.0,0.8148496240601503,NBA Potential,1.0,9.0
+2016-17,45,Derrick Walton Jr.,Michigan,F,0.0,0.0,0.8121573163678427,NBA Potential,1.0,3.0
+2016-17,46,Tony Bradley,North Carolina,F,1.0,28.0,0.8098412698412698,NBA Potential,1.0,8.0
+2016-17,47,Frank Jackson,Duke,G,2.0,31.0,0.7864430306535569,NBA Potential,1.0,5.0
+2016-17,48,Damyean Dotson,Houston,G,2.0,44.0,0.782585216795743,NBA Potential,1.0,5.0
+2016-17,49,D.J. Wilson,Michigan,F,1.0,17.0,0.7823404665509928,NBA Potential,1.0,6.0
+2016-17,50,London Perrantes,Virginia,G,0.0,0.0,0.777820638552904,NBA Potential,1.0,1.0
+2017-18,1,Jacob Evans,Cincinnati,G,1.0,28.0,0.9398496240601503,NBA Potential,1.0,2.0
+2017-18,2,Rawle Alkins,Arizona,G,0.0,0.0,0.9398496240601503,NBA Potential,1.0,1.0
+2017-18,3,Miles Bridges,Michigan State,G,1.0,12.0,0.9373496240601504,NBA Potential,1.0,7.0
+2017-18,4,Shake Milton,SMU,G,2.0,54.0,0.9353496240601503,NBA Potential,1.0,7.0
+2017-18,5,Shai Gilgeous-Alexander,Kentucky,G,1.0,11.0,0.9328496240601503,NBA Potential,1.0,8.0
+2017-18,6,Bruce Brown,Miami (FL),G,2.0,42.0,0.9318496240601505,NBA Potential,1.0,8.0
+2017-18,7,Tyler Davis,Texas A&M,C,0.0,0.0,0.9246778093883357,NBA Potential,1.0,1.0
+2017-18,8,Grayson Allen,Duke,G,1.0,21.0,0.9231778093883356,NBA Potential,1.0,8.0
+2017-18,9,Moritz Wagner,Michigan,G,1.0,25.0,0.9231778093883356,NBA Potential,1.0,7.0
+2017-18,10,J.P. Macura,Xavier,G,0.0,0.0,0.9198496240601504,NBA Potential,1.0,2.0
+2017-18,11,Khyri Thomas,Creighton,G,2.0,38.0,0.9198496240601504,NBA Potential,1.0,3.0
+2017-18,12,Jontay Porter,Missouri,F,0.0,0.0,0.9196778093883357,NBA Potential,1.0,2.0
+2017-18,13,Marvin Bagley III,Duke,G,1.0,2.0,0.9060162907268172,NBA Potential,1.0,8.0
+2017-18,14,Jalen Brunson,Villanova,C,2.0,33.0,0.905516290726817,NBA Potential,1.0,8.0
+2017-18,15,Omari Spellman,Villanova,F,1.0,30.0,0.9051778093883357,NBA Potential,1.0,2.0
+2017-18,16,Justin Jackson,Maryland,F,2.0,43.0,0.9035162907268169,NBA Potential,1.0,7.0
+2017-18,17,Deng Adel,Louisville,F,0.0,0.0,0.9030162907268171,NBA Potential,1.0,1.0
+2017-18,18,Josh Okogie,Georgia Tech,G,1.0,20.0,0.9013880855986119,NBA Potential,1.0,8.0
+2017-18,19,Wendell Carter Jr.,Duke,F,1.0,7.0,0.9013880855986119,NBA Potential,1.0,8.0
+2017-18,20,Zhaire Smith,Texas Tech,G,1.0,16.0,0.9013880855986119,NBA Potential,1.0,2.0
+2017-18,21,Kevin Huerter,Maryland,G,1.0,19.0,0.8950162907268171,NBA Potential,1.0,8.0
+2017-18,22,Jock Landale,St. Mary's (CA),F,0.0,0.0,0.8841353383458646,NBA Potential,1.0,5.0
+2017-18,23,Kelan Martin,Butler,G,0.0,0.0,0.8813496240601504,NBA Potential,1.0,3.0
+2017-18,24,Marcus Derrickson,Georgetown,F,0.0,0.0,0.8757619047619049,NBA Potential,1.0,1.0
+2017-18,25,Chandler Hutchison,Boise State,G,1.0,22.0,0.8736957779063041,NBA Potential,1.0,4.0
+2017-18,26,Gary Trent Jr.,Duke,G,2.0,37.0,0.8684448621553885,NBA Potential,1.0,8.0
+2017-18,27,Elijah Bryant,Brigham Young,G,0.0,0.0,0.8680547522652786,NBA Potential,1.0,1.0
+2017-18,28,Chimezie Metu,Southern California,F,2.0,49.0,0.8647619047619047,NBA Potential,1.0,6.0
+2017-18,29,Dewan Hernandez,Miami (FL),F,2.0,59.0,0.8642619047619047,NBA Potential,1.0,1.0
+2017-18,30,Malik Newman,Kansas,G,0.0,0.0,0.855405179615706,NBA Potential,1.0,2.0
+2017-18,31,Aaron Holiday,UCLA,G,1.0,23.0,0.8484210526315789,NBA Potential,1.0,8.0
+2017-18,32,Jae'Sean Tate,Ohio State,F,0.0,0.0,0.8484210526315789,NBA Potential,1.0,6.0
+2017-18,33,Jordan McLaughlin,Southern California,G,0.0,0.0,0.8484210526315789,NBA Potential,1.0,7.0
+2017-18,34,Keita Bates-Diop,Ohio State,G,2.0,48.0,0.8414285714285714,NBA Potential,1.0,6.0
+2017-18,35,Jevon Carter,West Virginia,F,2.0,32.0,0.8411353383458646,NBA Potential,1.0,8.0
+2017-18,36,Deandre Ayton,Arizona,G,1.0,1.0,0.8399051796157059,NBA Potential,1.0,8.0
+2017-18,37,Dakota Mathias,Purdue,G,0.0,0.0,0.8379173505489295,NBA Potential,1.0,2.0
+2017-18,38,Bonzie Colson,Notre Dame,F,0.0,0.0,0.8354051796157058,NBA Potential,1.0,1.0
+2017-18,39,Mikal Bridges,Villanova,G,1.0,10.0,0.8354051796157058,NBA Potential,1.0,8.0
+2017-18,40,Kendrick Nunn,Oakland,G,0.0,0.0,0.8347012987012988,NBA Potential,1.0,3.0
+2017-18,41,Allonzo Trier,Arizona,G,0.0,0.0,0.8341353383458646,NBA Potential,1.0,2.0
+2017-18,42,Kenrich Williams,TCU,F,0.0,0.0,0.8150877192982456,NBA Potential,1.0,7.0
+2017-18,43,Gary Clark,Cincinnati,F,0.0,0.0,0.8139051796157057,NBA Potential,1.0,4.0
+2017-18,44,Chris Chiozza,Florida,G,0.0,0.0,0.8065162907268171,NBA Potential,1.0,4.0
+2017-18,45,Daryl Macon,Arkansas,G,0.0,0.0,0.8048020050125313,NBA Potential,1.0,2.0
+2017-18,46,Donte DiVincenzo,Villanova,G,1.0,17.0,0.7984210526315787,NBA Potential,1.0,8.0
+2017-18,47,Kaiser Gates,Xavier,F,0.0,0.0,0.7972570314675578,NBA Potential,1.0,1.0
+2017-18,48,Jaren Jackson Jr.,Michigan State,F,1.0,4.0,0.7891617933723197,NBA Potential,1.0,8.0
+2017-18,49,Wenyen Gabriel,Kentucky,F,0.0,0.0,0.7867499216791982,NBA Potential,1.0,5.0
+2017-18,50,Jerome Robinson,Boston College,G,1.0,13.0,0.7620346320346321,NBA Potential,1.0,4.0
+2018-19,1,De'Andre Hunter,Virginia,G,1.0,4.0,0.9398496240601503,NBA Potential,1.0,7.0
+2018-19,2,Ignas Brazdeikis,Michigan,F,2.0,47.0,0.9398496240601503,NBA Potential,1.0,3.0
+2018-19,3,Nickeil Alexander-Walker,Virginia Tech,G,1.0,17.0,0.9398496240601503,NBA Potential,1.0,7.0
+2018-19,4,Grant Williams,Tennessee,G,1.0,22.0,0.9393496240601504,NBA Potential,1.0,6.0
+2018-19,5,Jarrett Culver,Texas Tech,F,1.0,6.0,0.9393496240601504,NBA Potential,1.0,4.0
+2018-19,6,Dean Wade,Kansas State,F,0.0,0.0,0.9383496240601502,NBA Potential,1.0,7.0
+2018-19,7,Nassir Little,North Carolina,F,1.0,25.0,0.9383496240601502,NBA Potential,1.0,5.0
+2018-19,8,Chuma Okeke,Auburn,F,1.0,16.0,0.9378496240601504,NBA Potential,1.0,5.0
+2018-19,9,Louis King,Oregon,F,0.0,0.0,0.9373496240601504,NBA Potential,1.0,4.0
+2018-19,10,Keldon Johnson,Kentucky,G,1.0,29.0,0.9368496240601504,NBA Potential,1.0,7.0
+2018-19,11,Quinndary Weatherspoon,Mississippi State,F,2.0,49.0,0.9251778093883356,NBA Potential,1.0,3.0
+2018-19,12,Ky Bowman,Boston College,G,0.0,0.0,0.9241778093883358,NBA Potential,1.0,1.0
+2018-19,13,Bruno Fernando,Maryland,F,2.0,34.0,0.9231778093883356,NBA Potential,1.0,6.0
+2018-19,14,Romeo Langford,Indiana,G,1.0,14.0,0.9198496240601504,NBA Potential,1.0,4.0
+2018-19,15,Coby White,North Carolina,F,1.0,7.0,0.9196778093883357,NBA Potential,1.0,6.0
+2018-19,16,Mfiondu Kabengele,Florida State,F,1.0,27.0,0.90589010989011,NBA Potential,1.0,3.0
+2018-19,17,Brandon Clarke,Gonzaga,G,1.0,21.0,0.9051778093883357,NBA Potential,1.0,6.0
+2018-19,18,Daniel Gafford,Arkansas,F,2.0,38.0,0.9013880855986119,NBA Potential,1.0,7.0
+2018-19,19,Tremont Waters,Louisiana State,G,2.0,51.0,0.9013880855986119,NBA Potential,1.0,3.0
+2018-19,20,Rui Hachimura,Gonzaga,G,1.0,9.0,0.8955162907268172,NBA Potential,1.0,7.0
+2018-19,21,Eric Paschall,Villanova,G,2.0,41.0,0.8928901098901099,NBA Potential,1.0,3.0
+2018-19,22,Tyler Herro,Kentucky,G,1.0,13.0,0.8916957779063044,NBA Potential,1.0,6.0
+2018-19,23,Carsen Edwards,Purdue,G,2.0,33.0,0.8912781954887219,NBA Potential,1.0,3.0
+2018-19,24,Caleb Martin,Nevada,G,0.0,0.0,0.8891957779063041,NBA Potential,1.0,7.0
+2018-19,25,Zach Norvell Jr.,Gonzaga,G,0.0,0.0,0.8846353383458647,NBA Potential,1.0,1.0
+2018-19,26,Jalen McDaniels,San Diego State,F,2.0,52.0,0.8786957779063043,NBA Potential,1.0,6.0
+2018-19,27,Amir Coffey,Minnesota,G,0.0,0.0,0.8703496240601503,NBA Potential,1.0,7.0
+2018-19,28,Shamorie Ponds,St. John's (NY),G,0.0,0.0,0.8680547522652786,NBA Potential,1.0,1.0
+2018-19,29,Luguentz Dort,Arizona State,G,0.0,0.0,0.8670567765567766,NBA Potential,1.0,7.0
+2018-19,30,Talen Horton-Tucker,Iowa State,G,2.0,46.0,0.8606829573934837,NBA Potential,1.0,6.0
+2018-19,31,Ty Jerome,Virginia,G,1.0,24.0,0.8565567765567765,NBA Potential,1.0,6.0
+2018-19,32,Naz Reid,Louisiana State,F,0.0,0.0,0.8526353383458647,NBA Potential,1.0,7.0
+2018-19,33,Marial Shayok,Iowa State,F,2.0,54.0,0.846016290726817,NBA Potential,1.0,1.0
+2018-19,34,Juwan Morgan,Indiana,F,0.0,0.0,0.8354051796157058,NBA Potential,1.0,3.0
+2018-19,35,Terance Mann,Florida State,G,2.0,48.0,0.8341353383458646,NBA Potential,1.0,7.0
+2018-19,36,Lindell Wigginton,Iowa State,G,0.0,0.0,0.8294051796157056,NBA Potential,1.0,3.0
+2018-19,37,Kevin Porter Jr.,Southern California,G,1.0,30.0,0.8287012987012986,NBA Potential,1.0,6.0
+2018-19,38,Kyle Guy,Virginia,G,2.0,55.0,0.8264285714285714,NBA Potential,1.0,3.0
+2018-19,39,Jaylen Nowell,Washington,F,2.0,43.0,0.8262567567567569,NBA Potential,1.0,6.0
+2018-19,40,Tyler Cook,Iowa,F,0.0,0.0,0.8261988304093567,NBA Potential,1.0,3.0
+2018-19,41,Isaiah Roby,Nebraska,F,2.0,45.0,0.8233583959899751,NBA Potential,1.0,4.0
+2018-19,42,Max Strus,DePaul,F,0.0,0.0,0.8233583959899748,NBA Potential,1.0,6.0
+2018-19,43,Jaylen Hoard,Wake Forest,F,0.0,0.0,0.8231539718862374,NBA Potential,1.0,3.0
+2018-19,44,Vic Law,Northwestern,F,0.0,0.0,0.817468671679198,NBA Potential,1.0,1.0
+2018-19,45,Donta Hall,Alabama,F,0.0,0.0,0.8111539718862373,NBA Potential,1.0,2.0
+2018-19,46,Marques Bolden,Duke,C,0.0,0.0,0.8111539718862373,NBA Potential,1.0,3.0
+2018-19,47,Jordan Poole,Michigan,G,1.0,28.0,0.8063239830345095,NBA Potential,1.0,7.0
+2018-19,48,Moses Brown,UCLA,C,0.0,0.0,0.8008020050125314,NBA Potential,1.0,6.0
+2018-19,49,Jaxson Hayes,Texas,F,1.0,8.0,0.7972695772695775,NBA Potential,1.0,7.0
+2018-19,50,Ja Morant,Murray State,G,1.0,2.0,0.7874000316105578,NBA Potential,1.0,7.0
+2019-20,1,Cassius Stanley,Duke,G,2.0,54.0,0.9398496240601503,NBA Potential,1.0,2.0
+2019-20,2,Paul Reed,DePaul,F,2.0,58.0,0.9398496240601503,NBA Potential,1.0,6.0
+2019-20,3,Ty-Shon Alexander,Creighton,G,0.0,0.0,0.9398496240601503,NBA Potential,1.0,1.0
+2019-20,4,Tyrese Maxey,Kentucky,G,1.0,21.0,0.9398496240601503,NBA Potential,1.0,6.0
+2019-20,5,Isaiah Stewart,Washington,F,1.0,16.0,0.9393496240601504,NBA Potential,1.0,6.0
+2019-20,6,Saddiq Bey,Villanova,F,1.0,19.0,0.9388496240601505,NBA Potential,1.0,5.0
+2019-20,7,Naji Marshall,Xavier,F,0.0,0.0,0.9383496240601502,NBA Potential,1.0,6.0
+2019-20,8,Josh Green,Arizona,G,1.0,18.0,0.9373496240601504,NBA Potential,1.0,5.0
+2019-20,9,Devon Dotson,Kansas,G,0.0,0.0,0.9358496240601504,NBA Potential,1.0,3.0
+2019-20,10,Patrick Williams,Florida State,F,1.0,4.0,0.9338496240601504,NBA Potential,1.0,6.0
+2019-20,11,Tyrell Terry,Stanford,G,2.0,31.0,0.9273496240601503,NBA Potential,1.0,2.0
+2019-20,12,Myles Powell,Seton Hall,G,0.0,0.0,0.9231778093883356,NBA Potential,1.0,1.0
+2019-20,13,Isaac Okoro,Auburn,F,1.0,5.0,0.9201778093883357,NBA Potential,1.0,6.0
+2019-20,14,Jahmi'us Ramsey,Texas Tech,G,2.0,43.0,0.9198496240601504,NBA Potential,1.0,3.0
+2019-20,15,Jordan Nwora,Louisville,G,2.0,45.0,0.9198496240601504,NBA Potential,1.0,4.0
+2019-20,16,Onyeka Okongwu,Southern California,F,1.0,6.0,0.9191778093883357,NBA Potential,1.0,6.0
+2019-20,17,Nate Hinton,Houston,G,0.0,0.0,0.9161778093883356,NBA Potential,1.0,3.0
+2019-20,18,Daniel Oturu,Minnesota,G,2.0,33.0,0.9121778093883357,NBA Potential,1.0,2.0
+2019-20,19,Malachi Flynn,San Diego State,G,1.0,29.0,0.90739010989011,NBA Potential,1.0,5.0
+2019-20,20,Reggie Perry,Mississippi State,F,2.0,57.0,0.9060162907268172,NBA Potential,1.0,2.0
+2019-20,21,Elijah Hughes,Syracuse,G,2.0,39.0,0.905516290726817,NBA Potential,1.0,2.0
+2019-20,22,Zeke Nnaji,Arizona,F,1.0,22.0,0.898016290726817,NBA Potential,1.0,6.0
+2019-20,23,Obi Toppin,Dayton,F,1.0,8.0,0.8908901098901099,NBA Potential,1.0,6.0
+2019-20,24,Anthony Edwards,Georgia,G,1.0,1.0,0.8853444760550024,NBA Potential,1.0,6.0
+2019-20,25,Malik Fitts,St. Mary's (CA),F,0.0,0.0,0.8846957779063042,NBA Potential,1.0,2.0
+2019-20,26,Kira Lewis Jr.,Alabama,G,1.0,13.0,0.8708496240601505,NBA Potential,1.0,4.0
+2019-20,27,Skylar Mays,Louisiana State,G,2.0,50.0,0.8681778093883358,NBA Potential,1.0,4.0
+2019-20,28,Saben Lee,Vanderbilt,G,2.0,38.0,0.8565952380952379,NBA Potential,1.0,4.0
+2019-20,29,Xavier Tillman,Michigan State,F,2.0,35.0,0.8518496240601504,NBA Potential,1.0,6.0
+2019-20,30,Jarron Cumberland,Cincinnati,G,0.0,0.0,0.8484210526315789,NBA Potential,1.0,1.0
+2019-20,31,Payton Pritchard,Oregon,G,1.0,26.0,0.8436353383458647,NBA Potential,1.0,6.0
+2019-20,32,Vernon Carey Jr.,Duke,C,2.0,32.0,0.8426778093883357,NBA Potential,1.0,3.0
+2019-20,33,Desmond Bane,TCU,G,1.0,30.0,0.8371353383458647,NBA Potential,1.0,6.0
+2019-20,34,Devin Vassell,Florida State,G,1.0,11.0,0.8246115288220551,NBA Potential,1.0,6.0
+2019-20,35,Trent Forrest,Florida State,G,0.0,0.0,0.8179686716791981,NBA Potential,1.0,4.0
+2019-20,36,Filip Petrusev,Gonzaga,G,2.0,50.0,0.8117567567567567,NBA Potential,1.0,1.0
+2019-20,37,Immanuel Quickley,Kentucky,G,1.0,25.0,0.8045718462823725,NBA Potential,1.0,6.0
+2019-20,38,Omer Yurtseven,Georgetown,C,0.0,0.0,0.8028020050125313,NBA Potential,1.0,3.0
+2019-20,39,Cole Anthony,North Carolina,G,1.0,15.0,0.8008020050125314,NBA Potential,1.0,6.0
+2019-20,40,Isaiah Joe,Arkansas,G,2.0,49.0,0.7986375028480291,NBA Potential,1.0,6.0
+2019-20,41,Cassius Winston,Michigan State,G,2.0,53.0,0.7892513334618597,NBA Potential,1.0,2.0
+2019-20,42,Tyrese Haliburton,Iowa State,G,1.0,12.0,0.7874000316105578,NBA Potential,1.0,5.0
+2019-20,43,Nick Richards,Kentucky,F,2.0,42.0,0.7803496240601504,NBA Potential,1.0,6.0
+2019-20,44,Braxton Key,Virginia,F,0.0,0.0,0.7788239830345094,NBA Potential,1.0,4.0
+2019-20,45,CJ Elleby,Washington State,G,2.0,46.0,0.7689384931490195,NBA Potential,1.0,2.0
+2019-20,46,Sam Merrill,Utah State,G,2.0,60.0,0.7670825712930976,NBA Potential,1.0,6.0
+2019-20,47,Grant Riller,College of Charleston,F,2.0,56.0,0.7593591000913655,NBA Potential,1.0,1.0
+2019-20,48,Cameron McGriff,Oklahoma State,F,0.0,0.0,0.7579448621553885,NBA Potential,1.0,1.0
+2019-20,49,Jon Teske,Michigan,C,0.0,0.0,0.7561179803285066,NBA Potential,1.0,1.0
+2019-20,50,Mamadi Diakite,Virginia,F,0.0,0.0,0.7515294840294839,NBA Potential,1.0,4.0
+2020-21,1,Franz Wagner,Michigan,G,1.0,8.0,0.9398496240601503,NBA Potential,1.0,5.0
+2020-21,2,Joe Wieskamp,Iowa,G,2.0,41.0,0.9398496240601503,NBA Potential,1.0,2.0
+2020-21,3,Quentin Grimes,Houston,G,1.0,25.0,0.9398496240601503,NBA Potential,1.0,5.0
+2020-21,4,Jeremiah Robinson-Earl,Villanova,F,2.0,32.0,0.9383496240601502,NBA Potential,1.0,5.0
+2020-21,5,James Bouknight,Connecticut,G,1.0,11.0,0.9378496240601504,NBA Potential,1.0,3.0
+2020-21,6,Aaron Wiggins,Maryland,G,2.0,55.0,0.9358496240601504,NBA Potential,1.0,5.0
+2020-21,7,Ayo Dosunmu,Illinois,G,2.0,38.0,0.9358496240601504,NBA Potential,1.0,5.0
+2020-21,8,Carlik Jones,Louisville,G,0.0,0.0,0.9343496240601503,NBA Potential,1.0,2.0
+2020-21,9,JT Thor,Auburn,F,2.0,37.0,0.9201778093883357,NBA Potential,1.0,4.0
+2020-21,10,Miles McBride,West Virginia,G,2.0,36.0,0.9198496240601504,NBA Potential,1.0,5.0
+2020-21,11,Scottie Barnes,Florida State,G,1.0,4.0,0.9196778093883357,NBA Potential,1.0,5.0
+2020-21,12,Moses Moody,Arkansas,G,1.0,14.0,0.9191778093883357,NBA Potential,1.0,5.0
+2020-21,13,Jaden Springer,Tennessee,G,1.0,28.0,0.9176778093883357,NBA Potential,1.0,4.0
+2020-21,14,Sandro Mamukelashvili,Seton Hall,F,2.0,54.0,0.9067781954887218,NBA Potential,1.0,5.0
+2020-21,15,Cade Cunningham,Oklahoma State,G,1.0,1.0,0.906516290726817,NBA Potential,1.0,5.0
+2020-21,16,Jalen Suggs,Gonzaga,G,1.0,5.0,0.9061778093883357,NBA Potential,1.0,5.0
+2020-21,17,Kessler Edwards,Pepperdine,F,2.0,44.0,0.9052781954887218,NBA Potential,1.0,4.0
+2020-21,18,Chris Duarte,Oregon,G,1.0,13.0,0.9013880855986119,NBA Potential,1.0,4.0
+2020-21,19,D.J. Carton,Marquette,G,0.0,0.0,0.9013880855986119,NBA Potential,1.0,2.0
+2020-21,20,Scottie Lewis,Florida,G,2.0,56.0,0.8956353383458646,NBA Potential,1.0,1.0
+2020-21,21,McKinley Wright IV,Colorado,G,0.0,0.0,0.8916957779063044,NBA Potential,1.0,2.0
+2020-21,22,David Johnson,Louisville,G,2.0,47.0,0.8912781954887219,NBA Potential,1.0,1.0
+2020-21,23,Isaiah Livers,Michigan,F,2.0,42.0,0.8893496240601504,NBA Potential,1.0,4.0
+2020-21,24,Justin Champagnie,Pittsburgh,G,0.0,0.0,0.8886957779063043,NBA Potential,1.0,5.0
+2020-21,25,Evan Mobley,Southern California,F,1.0,3.0,0.8868496240601503,NBA Potential,1.0,5.0
+2020-21,26,Mac McClung,Texas Tech,G,0.0,0.0,0.8757619047619049,NBA Potential,1.0,4.0
+2020-21,27,Jared Butler,Baylor,G,2.0,40.0,0.8743496240601504,NBA Potential,1.0,4.0
+2020-21,28,Feron Hunt,SMU,F,0.0,0.0,0.8712619047619047,NBA Potential,1.0,1.0
+2020-21,29,Raiquan Gray,Florida State,F,2.0,59.0,0.8707619047619047,NBA Potential,1.0,2.0
+2020-21,30,Aaron Henry,Michigan State,F,0.0,0.0,0.8680547522652786,NBA Potential,1.0,1.0
+2020-21,31,A.J. Lawson,South Carolina,G,0.0,0.0,0.8549051796157059,NBA Potential,1.0,3.0
+2020-21,32,Cameron Johnson,Stephen F. Austin,G,1.0,11.0,0.8484210526315789,NBA Potential,1.0,7.0
+2020-21,33,Trendon Watford,Louisiana State,F,0.0,0.0,0.8434814921920186,NBA Potential,1.0,5.0
+2020-21,34,Joshua Primo,Alabama,G,1.0,12.0,0.8354051796157058,NBA Potential,1.0,3.0
+2020-21,35,Day'Ron Sharpe,North Carolina,F,1.0,29.0,0.8341353383458646,NBA Potential,1.0,5.0
+2020-21,36,Neemias Queta,Utah State,C,2.0,39.0,0.8337492379597642,NBA Potential,1.0,5.0
+2020-21,37,Keon Johnson,Tennessee,G,1.0,21.0,0.8280877192982455,NBA Potential,1.0,4.0
+2020-21,38,Javonte Smart,Louisiana State,G,0.0,0.0,0.8271573163678427,NBA Potential,1.0,2.0
+2020-21,39,Dru Smith,Missouri,G,0.0,0.0,0.8261988304093567,NBA Potential,1.0,4.0
+2020-21,40,Joel Ayayi,Gonzaga,G,0.0,0.0,0.8256906299011563,NBA Potential,1.0,1.0
+2020-21,41,Tre Jones,UT Arlington,F,2.0,41.0,0.8186573163678427,NBA Potential,1.0,6.0
+2020-21,42,Austin Reaves,Oklahoma,G,0.0,0.0,0.8150877192982456,NBA Potential,1.0,5.0
+2020-21,43,Josh Christopher,Arizona State,G,1.0,24.0,0.8080547522652786,NBA Potential,1.0,3.0
+2020-21,44,Tre Mann,Florida,G,1.0,18.0,0.8028654970760233,NBA Potential,1.0,5.0
+2020-21,45,Eugene Omoruyi,Oregon,F,0.0,0.0,0.8008020050125314,NBA Potential,1.0,3.0
+2020-21,46,Trey Murphy III,Virginia,G,1.0,17.0,0.7972570314675578,NBA Potential,1.0,5.0
+2020-21,47,Sam Hauser,Virginia,F,0.0,0.0,0.7957513334618597,NBA Potential,1.0,5.0
+2020-21,48,Jay Huff,Virginia,F,0.0,0.0,0.7954906497011758,NBA Potential,1.0,5.0
+2020-21,49,Corey Kispert,Gonzaga,F,1.0,15.0,0.7861301903407167,NBA Potential,1.0,5.0
+2020-21,50,Duane Washington Jr.,Ohio State,G,0.0,0.0,0.7818496240601503,NBA Potential,1.0,2.0
+2021-22,1,Christian Braun,Kansas,G,1.0,21.0,0.9398496240601503,NBA Potential,1.0,4.0
+2021-22,2,Isaiah Mobley,Southern California,F,2.0,49.0,0.9398496240601503,NBA Potential,1.0,3.0
+2021-22,3,David Roddy,Colorado State,G,1.0,23.0,0.9393496240601504,NBA Potential,1.0,3.0
+2021-22,4,Jake Laravia,Wake Forest,G,1.0,19.0,0.9393496240601504,NBA Potential,1.0,4.0
+2021-22,5,Jeremy Sochan,Baylor,F,1.0,9.0,0.9388496240601505,NBA Potential,1.0,4.0
+2021-22,6,Jaden Ivey,Purdue,G,1.0,5.0,0.9383496240601502,NBA Potential,1.0,3.0
+2021-22,7,Julian Champagnie,St. John's (NY),G,0.0,0.0,0.9378496240601504,NBA Potential,1.0,4.0
+2021-22,8,E.J. Liddell,Ohio State,F,2.0,41.0,0.9298496240601504,NBA Potential,1.0,3.0
+2021-22,9,Jared Rhoden,Seton Hall,G,0.0,0.0,0.9198496240601504,NBA Potential,1.0,3.0
+2021-22,10,Bennedict Mathurin,Arizona,G,1.0,6.0,0.9112857142857143,NBA Potential,1.0,4.0
+2021-22,11,Johnny Davis,Wisconsin,G,1.0,10.0,0.906516290726817,NBA Potential,1.0,3.0
+2021-22,12,Wendell Moore Jr.,Duke,F,1.0,26.0,0.9057857142857143,NBA Potential,1.0,3.0
+2021-22,13,Keegan Murray,Iowa,F,1.0,4.0,0.9052857142857142,NBA Potential,1.0,3.0
+2021-22,14,Kenneth Lofton Jr.,Louisiana Tech,F,0.0,0.0,0.9042781954887218,NBA Potential,1.0,2.0
+2021-22,15,Jabari Walker,Colorado,F,2.0,57.0,0.9035162907268169,NBA Potential,1.0,4.0
+2021-22,16,Orlando Robinson,Fresno State,F,0.0,0.0,0.9030162907268171,NBA Potential,1.0,4.0
+2021-22,17,Kennedy Chandler,Tennessee,G,2.0,38.0,0.9013880855986119,NBA Potential,1.0,1.0
+2021-22,18,Malaki Branham,Ohio State,G,1.0,20.0,0.9013880855986119,NBA Potential,1.0,4.0
+2021-22,19,JD Davison,Alabama,G,2.0,53.0,0.8992781954887217,NBA Potential,1.0,4.0
+2021-22,20,Izaiah Brockington,Iowa State,G,0.0,0.0,0.88989010989011,NBA Potential,1.0,1.0
+2021-22,21,Dalen Terry,Arizona,G,1.0,18.0,0.8878496240601503,NBA Potential,1.0,4.0
+2021-22,22,Ron Harper Jr.,Rutgers,G,0.0,0.0,0.8858496240601503,NBA Potential,1.0,4.0
+2021-22,23,Kendall Brown,Baylor,G,2.0,48.0,0.8798496240601503,NBA Potential,1.0,2.0
+2021-22,24,Paolo Banchero,Duke,F,1.0,1.0,0.8733496240601504,NBA Potential,1.0,4.0
+2021-22,25,TyTy Washington Jr.,Kentucky,G,1.0,29.0,0.8673496240601504,NBA Potential,1.0,3.0
+2021-22,26,Walker Kessler,Auburn,F,1.0,22.0,0.8579448621553885,NBA Potential,1.0,4.0
+2021-22,27,Tyrese Martin,Connecticut,G,2.0,51.0,0.850905179615706,NBA Potential,1.0,3.0
+2021-22,28,Jules Bernard,UCLA,G,0.0,0.0,0.8416353383458647,NBA Potential,1.0,1.0
+2021-22,29,Christian Koloko,Arizona,C,2.0,33.0,0.8341353383458646,NBA Potential,1.0,3.0
+2021-22,30,Ochai Agbaji,Kansas,G,1.0,14.0,0.8284635236740501,NBA Potential,1.0,4.0
+2021-22,31,Caleb Houstan,Michigan,G,2.0,32.0,0.823529484029484,NBA Potential,1.0,4.0
+2021-22,32,Bryce McGowens,Nebraska,G,2.0,40.0,0.8196539718862373,NBA Potential,1.0,4.0
+2021-22,33,Johnny Juzang,UCLA,G,0.0,0.0,0.8148496240601503,NBA Potential,1.0,4.0
+2021-22,34,Jamal Cain,Oakland,F,0.0,0.0,0.8059821572144227,NBA Potential,1.0,3.0
+2021-22,35,Trevor Keels,Duke,G,2.0,42.0,0.8048020050125313,NBA Potential,1.0,1.0
+2021-22,36,Javon Freeman-Liberty,DePaul,G,0.0,0.0,0.8020718462823725,NBA Potential,1.0,1.0
+2021-22,37,Chet Holmgren,Gonzaga,C,1.0,2.0,0.8003532479848271,NBA Potential,1.0,3.0
+2021-22,38,Taze Moore,Houston,F,0.0,0.0,0.7986375028480291,NBA Potential,1.0,2.0
+2021-22,39,Scotty Pippen Jr.,Vanderbilt,G,0.0,0.0,0.7961865813181601,NBA Potential,1.0,3.0
+2021-22,40,Dereon Seabron,NC State,G,0.0,0.0,0.772862444572971,NBA Potential,1.0,2.0
+2021-22,41,Tari Eason,Louisiana State,F,1.0,17.0,0.7710393772893773,NBA Potential,1.0,4.0
+2021-22,42,Jamaree Bouyea,San Francisco,G,0.0,0.0,0.7680346320346321,NBA Potential,1.0,3.0
+2021-22,43,AJ Griffin,Duke,F,1.0,16.0,0.7676686518791781,NBA Potential,1.0,2.0
+2021-22,44,Andrew Nembhard,Gonzaga,G,2.0,31.0,0.7562116509221772,NBA Potential,1.0,4.0
+2021-22,45,Max Christie,Michigan State,G,2.0,35.0,0.7558284600389864,NBA Potential,1.0,4.0
+2021-22,46,Collin Gillespie,Villanova,G,0.0,0.0,0.7549436956759612,NBA Potential,1.0,3.0
+2021-22,47,Blake Wesley,Notre Dame,G,1.0,25.0,0.7410706252811516,NBA Potential,1.0,4.0
+2021-22,48,Jordan Bell,Pacific,F,2.0,38.0,0.7342687184792448,NBA Potential,1.0,5.0
+2021-22,49,Jalen Williams,Santa Clara,G,1.0,12.0,0.7335751142562288,NBA Potential,1.0,3.0
+2021-22,50,Peyton Watson,UCLA,G,1.0,30.0,0.7285111427216691,NBA Potential,1.0,4.0
+2022-23,1,Taylor Hendricks,UCF,F,1.0,9.0,0.9398496240601503,NBA Potential,1.0,3.0
+2022-23,2,Gradey Dick,Kansas,G,1.0,13.0,0.9393496240601504,NBA Potential,1.0,3.0
+2022-23,3,Jaime Jaquez Jr.,UCLA,G,1.0,18.0,0.9378496240601504,NBA Potential,1.0,3.0
+2022-23,4,Colby Jones,Xavier,G,2.0,34.0,0.9318496240601505,NBA Potential,1.0,3.0
+2022-23,5,Jarace Walker,Houston,F,1.0,8.0,0.9246778093883357,NBA Potential,1.0,3.0
+2022-23,6,Jordan Hawkins,Connecticut,G,1.0,14.0,0.9206778093883358,NBA Potential,1.0,3.0
+2022-23,7,Kobe Brown,Missouri,F,1.0,30.0,0.9077781954887219,NBA Potential,1.0,3.0
+2022-23,8,Cason Wallace,Kentucky,G,1.0,10.0,0.9045162907268172,NBA Potential,1.0,3.0
+2022-23,9,Miles Norris,UC Santa Barbara,F,0.0,0.0,0.8926353383458647,NBA Potential,1.0,1.0
+2022-23,10,Jalen Pickett,Penn State,G,2.0,32.0,0.8912781954887219,NBA Potential,1.0,3.0
+2022-23,11,Brice Sensabaugh,Ohio State,F,1.0,28.0,0.8718444760550023,NBA Potential,1.0,3.0
+2022-23,12,Jalen Wilson,Kansas,F,2.0,51.0,0.8703496240601505,NBA Potential,1.0,3.0
+2022-23,13,Cam Whitmore,Villanova,F,1.0,20.0,0.8680547522652786,NBA Potential,1.0,3.0
+2022-23,14,Ricky Council IV,Arkansas,G,0.0,0.0,0.8652619047619048,NBA Potential,1.0,2.0
+2022-23,15,Brandin Podziemski,Santa Clara,G,1.0,19.0,0.8643496240601504,NBA Potential,1.0,3.0
+2022-23,16,Kobe Bufkin,Michigan,G,1.0,15.0,0.8529051796157059,NBA Potential,1.0,2.0
+2022-23,17,Chris Livingston,Kentucky,F,2.0,58.0,0.8444051796157058,NBA Potential,1.0,2.0
+2022-23,18,Noah Clowney,Alabama,F,1.0,21.0,0.8436353383458647,NBA Potential,1.0,3.0
+2022-23,19,Keyontae Johnson,Kansas State,F,2.0,50.0,0.83246352367405,NBA Potential,1.0,1.0
+2022-23,20,Jordan Walsh,Arkansas,F,2.0,38.0,0.8314285714285713,NBA Potential,1.0,3.0
+2022-23,21,Liam Robbins,Vanderbilt,F,0.0,0.0,0.8287012987012986,NBA Potential,1.0,1.0
+2022-23,22,Keyonte George,Baylor,G,1.0,16.0,0.8160162907268169,NBA Potential,1.0,3.0
+2022-23,23,Trayce Jackson-Davis,Indiana,F,2.0,57.0,0.8156737998843262,NBA Potential,1.0,3.0
+2022-23,24,Terquavion Smith,NC State,G,0.0,0.0,0.8148496240601503,NBA Potential,1.0,1.0
+2022-23,25,Andre Jackson Jr.,Connecticut,G,2.0,36.0,0.8054494409099673,NBA Potential,1.0,3.0
+2022-23,26,Dexter Dennis,Texas A&M,G,0.0,0.0,0.7998496240601504,NBA Potential,1.0,1.0
+2022-23,27,Isaiah Wong,Miami (FL),G,2.0,55.0,0.7986375028480291,NBA Potential,1.0,2.0
+2022-23,28,Mouhamed Gueye,Washington State,F,2.0,39.0,0.7972641539746802,NBA Potential,1.0,3.0
+2022-23,29,Toumani Camara,Dayton,F,2.0,52.0,0.7930449842555106,NBA Potential,1.0,3.0
+2022-23,30,Jaylen Clark,UCLA,G,2.0,53.0,0.7817543859649123,NBA Potential,1.0,2.0
+2022-23,31,Julian Phillips,Tennessee,F,2.0,35.0,0.771941391941392,NBA Potential,1.0,3.0
+2022-23,32,Kris Murray,Iowa,F,1.0,23.0,0.7716032870638135,NBA Potential,1.0,3.0
+2022-23,33,Drew Peterson,Southern California,G,0.0,0.0,0.7698496240601503,NBA Potential,1.0,2.0
+2022-23,34,Olivier-Maxence Prosper,Marquette,G,1.0,24.0,0.7631488238810893,NBA Potential,1.0,3.0
+2022-23,35,Jacob Toppin,Kentucky,F,0.0,0.0,0.7593591000913655,NBA Potential,1.0,3.0
+2022-23,36,Pete Nance,North Carolina,F,0.0,0.0,0.7513880855986119,NBA Potential,1.0,2.0
+2022-23,37,Colin Castleton,Florida,F,0.0,0.0,0.7511031853137116,NBA Potential,1.0,2.0
+2022-23,38,Seth Lundy,Penn State,F,2.0,46.0,0.7481829573934837,NBA Potential,1.0,1.0
+2022-23,39,Drew Timme,Gonzaga,F,0.0,0.0,0.7477490813181602,NBA Potential,1.0,1.0
+2022-23,40,Adam Flagler,Baylor,G,0.0,0.0,0.7468118420223684,NBA Potential,1.0,2.0
+2022-23,41,Leaky Black,North Carolina,G,0.0,0.0,0.7390239632344896,NBA Potential,1.0,1.0
+2022-23,42,Jordan Miller,Miami (FL),G,2.0,48.0,0.7375849141066533,NBA Potential,1.0,2.0
+2022-23,43,Julian Strawther,Gonzaga,G,1.0,29.0,0.7369461506961507,NBA Potential,1.0,3.0
+2022-23,44,Adama Sanogo,Connecticut,F,0.0,0.0,0.732638085598612,NBA Potential,1.0,2.0
+2022-23,45,Jalen Hood-Schifino,Indiana,G,1.0,17.0,0.7189032995844141,NBA Potential,1.0,2.0
+2022-23,46,Oscar Tshiebwe,Kentucky,F,0.0,0.0,0.7177698519803782,NBA Potential,1.0,2.0
+2022-23,47,Hunter Tyson,Clemson,F,2.0,37.0,0.713378317588844,NBA Potential,1.0,3.0
+2022-23,48,Brandon Miller,Alabama,F,1.0,2.0,0.7077372919478183,NBA Potential,1.0,3.0
+2022-23,49,Marcus Sasser,Houston,G,1.0,25.0,0.7042162709267973,NBA Potential,1.0,2.0
+2022-23,50,Jett Howard,Michigan,G,1.0,11.0,0.7030980373085636,NBA Potential,1.0,3.0
+2023-24,1,Stephon Castle,Connecticut,G,1.0,4.0,0.8531829573934837,NBA Potential,1.0,2.0
+2023-24,2,Justin Edwards,Kentucky,G,0.0,0.0,0.8361072965678229,NBA Potential,1.0,2.0
+2023-24,3,KJ Simpson,Colorado,G,2.0,42.0,0.8180547522652786,NBA Potential,1.0,2.0
+2023-24,4,Kyle Filipowski,Duke,C,2.0,32.0,0.807485501696028,NBA Potential,1.0,2.0
+2023-24,5,Harrison Ingram,North Carolina,F,2.0,48.0,0.7742162709267972,NBA Potential,1.0,2.0
+2023-24,6,Kel'el Ware,Indiana,C,1.0,15.0,0.7742162709267972,NBA Potential,1.0,2.0
+2023-24,7,Jared McCain,Duke,G,1.0,16.0,0.7734234234234234,NBA Potential,1.0,2.0
+2023-24,8,Trey Alexander,Creighton,G,0.0,0.0,0.7670250657503945,NBA Potential,1.0,1.0
+2023-24,9,DaRon Holmes II,Dayton,F,1.0,22.0,0.7486523611523612,NBA Potential,1.0,1.0
+2023-24,10,Johnny Furphy,Kansas,G,2.0,35.0,0.6554456654456654,NBA Potential,1.0,2.0
+2023-24,11,Donovan Clingan,Connecticut,C,1.0,7.0,0.6233512892336421,NBA Potential,1.0,2.0
+2023-24,12,Carlton Carrington,Pittsburgh,G,0.0,0.0,0.6197313797313797,NBA Potential,0.0,0.0
+2023-24,13,Jaylon Tyson,California,G,1.0,20.0,0.6125885225885226,NBA Potential,1.0,2.0
+2023-24,14,Rienk Mast,Nebraska,F,0.0,0.0,0.5861599511599511,NBA Potential,0.0,0.0
+2023-24,15,Ja'Kobe Walter,Baylor,G,1.0,19.0,0.56076524924351,NBA Potential,1.0,2.0
+2023-24,16,Reed Sheppard,Kentucky,G,1.0,3.0,0.5529615705931497,NBA Potential,1.0,2.0
+2023-24,17,Kevin McCullar Jr.,Kansas,G,2.0,56.0,0.5508791208791208,NBA Potential,1.0,1.0
+2023-24,18,Dylan Disu,Texas,F,0.0,0.0,0.5458187134502923,NBA Potential,0.0,0.0
+2023-24,19,Jalen Bridges,Baylor,F,0.0,0.0,0.5225708502024291,NBA Potential,1.0,1.0
+2023-24,20,Yves Missi,Baylor,F,1.0,21.0,0.5225708502024291,NBA Potential,1.0,2.0
+2023-24,21,PJ Hall,Clemson,F,0.0,0.0,0.5173768823768823,NBA Potential,1.0,2.0
+2023-24,22,Isaiah Collier,Southern California,G,1.0,29.0,0.5064085297418629,NBA Potential,1.0,2.0
+2023-24,23,Tyler Bey,Missouri State,F,2.0,36.0,0.5017232767232768,NBA Potential,1.0,1.0
+2023-24,24,Jamal Shead,Houston,G,2.0,45.0,0.494502067133646,NBA Potential,1.0,2.0
+2023-24,25,Tyrese Proctor,Duke,G,2.0,49.0,0.4810606060606061,NBA Potential,0.0,0.0
+2023-24,26,Adem Bona,UCLA,F,2.0,41.0,0.47673373325547236,NBA Potential,1.0,2.0
+2023-24,27,Tyler Kolek,Marquette,G,2.0,34.0,0.46770451770451765,NBA Potential,1.0,2.0
+2023-24,28,Tristan Da Silva,Colorado,F,1.0,18.0,0.46463434226592126,NBA Potential,1.0,2.0
+2023-24,29,Aly Khalifa,Brigham Young,F,0.0,0.0,0.4634680134680135,NBA Potential,0.0,0.0
+2023-24,30,Reece Beekman,Virginia,G,0.0,0.0,0.46093063856221744,NBA Potential,1.0,1.0
+2023-24,31,Jalen Smith,SMU,G,1.0,10.0,0.4433380459696249,NBA Potential,1.0,6.0
+2023-24,32,Donta Scott,Maryland,F,0.0,0.0,0.4301859446596289,NBA Potential,0.0,0.0
+2023-24,33,Tyrece Radford,Texas A&M,G,0.0,0.0,0.41942039442039436,NBA Potential,0.0,0.0
+2023-24,34,Keion Brooks Jr.,Washington,F,0.0,0.0,0.41366254518428425,NBA Potential,1.0,1.0
+2023-24,35,Oso Ighodaro,Marquette,F,2.0,40.0,0.41361074513248414,NBA Potential,1.0,2.0
+2023-24,36,D.J. Jeffries,Mississippi State,F,0.0,0.0,0.41335978835978826,NBA Potential,0.0,0.0
+2023-24,37,Reese Dixon-Waters,San Diego State,G,0.0,0.0,0.40157370809544723,NBA Potential,0.0,0.0
+2023-24,38,Armando Bacot,North Carolina,F,0.0,0.0,0.39236624888798805,NBA Potential,0.0,0.0
+2023-24,39,Josh Oduro,Providence,F,0.0,0.0,0.39236624888798805,NBA Potential,0.0,0.0
+2023-24,40,Kevin Cross,Tulane,F,0.0,0.0,0.39236624888798805,NBA Potential,0.0,0.0
+2023-24,41,Kyshawn George,Miami (FL),G,1.0,24.0,0.38452140452140454,NBA Potential,1.0,2.0
+2023-24,42,Cody Williams,Colorado,F,1.0,10.0,0.38303992303992296,NBA Potential,1.0,2.0
+2023-24,43,Rob Dillingham,Kentucky,G,1.0,8.0,0.3825501390718781,NBA Potential,1.0,2.0
+2023-24,44,Terrence Shannon Jr.,Illinois,G,1.0,27.0,0.38208325490934186,NBA Potential,1.0,2.0
+2023-24,45,Spencer Jones,Stanford,F,0.0,0.0,0.38145743145743144,NBA Potential,1.0,2.0
+2023-24,46,Judah Mintz,Syracuse,G,0.0,0.0,0.37113892548675154,NBA Potential,0.0,0.0
+2023-24,47,Josiah-Jordan James,Tennessee,G,0.0,0.0,0.37080849906936864,NBA Potential,0.0,0.0
+2023-24,48,Koren Johnson,Washington,G,0.0,0.0,0.3637622602839994,NBA Potential,0.0,0.0
+2023-24,49,Jahmir Young,Maryland,G,0.0,0.0,0.3637315180793442,NBA Potential,1.0,2.0
+2023-24,50,Emanuel Miller,TCU,F,0.0,0.0,0.35983457766066457,NBA Potential,1.0,1.0
+2024-25,1,Collin Murray-Boyles,South Carolina,F,1.0,9.0,0.841965008675535,NBA Potential,1.0,1.0
+2024-25,2,Labaron Philon,Alabama,G,0.0,0.0,0.8256906299011563,NBA Potential,0.0,0.0
+2024-25,3,V.J. Edgecombe,Baylor,G,0.0,0.0,0.8256906299011563,NBA Potential,0.0,0.0
+2024-25,4,Thomas Sorber,Georgetown,F,1.0,15.0,0.8072290914396177,NBA Potential,0.0,0.0
+2024-25,5,Jase Richardson,Michigan State,G,1.0,25.0,0.7778190278190278,NBA Potential,1.0,1.0
+2024-25,6,RJ Luis,St. John's (NY),G,0.0,0.0,0.7778190278190278,NBA Potential,0.0,0.0
+2024-25,7,Derik Queen,Maryland,C,1.0,13.0,0.7742162709267972,NBA Potential,1.0,1.0
+2024-25,8,Dylan Harper,Rutgers,G,1.0,2.0,0.7603166570271833,NBA Potential,1.0,1.0
+2024-25,9,Kon Knueppel,Duke,G,1.0,4.0,0.7522981944856947,NBA Potential,1.0,1.0
+2024-25,10,Eric Dailey Jr.,UCLA,F,0.0,0.0,0.7486523611523612,NBA Potential,0.0,0.0
+2024-25,11,Cooper Flagg,Duke,F,1.0,1.0,0.7444856944856946,NBA Potential,1.0,1.0
+2024-25,12,KJ Lewis,Arizona,G,0.0,0.0,0.7442567567567568,NBA Potential,0.0,0.0
+2024-25,13,Kwame Evans Jr.,Oregon,F,0.0,0.0,0.7442567567567568,NBA Potential,0.0,0.0
+2024-25,14,Tamin Lipsey,Iowa State,G,0.0,0.0,0.7442567567567568,NBA Potential,0.0,0.0
+2024-25,15,Tyler Bilodeau,UCLA,F,0.0,0.0,0.7442567567567568,NBA Potential,0.0,0.0
+2024-25,16,Danny Wolf,Michigan,F,1.0,27.0,0.7303571428571429,NBA Potential,1.0,1.0
+2024-25,17,Jeremiah Fears,Oklahoma,G,1.0,7.0,0.726190476190476,NBA Potential,1.0,1.0
+2024-25,18,Rasheer Fleming,Saint Joseph's,F,2.0,31.0,0.696062271062271,NBA Potential,1.0,1.0
+2024-25,19,Asa Newell,Georgia,F,1.0,23.0,0.6912897237897238,NBA Potential,1.0,1.0
+2024-25,20,Mark Mitchell,Missouri,F,0.0,0.0,0.67739010989011,NBA Potential,0.0,0.0
+2024-25,21,Daniel Skillings Jr.,Cincinnati,G,0.0,0.0,0.6737897237897238,NBA Potential,0.0,0.0
+2024-25,22,Jacob Cofie,Virginia,F,0.0,0.0,0.6693452793452793,NBA Potential,0.0,0.0
+2024-25,23,Roddy Gayle Jr.,Michigan,G,0.0,0.0,0.6554456654456654,NBA Potential,0.0,0.0
+2024-25,24,Rylan Griffen,Kansas,G,0.0,0.0,0.6362619919762775,NBA Potential,0.0,0.0
+2024-25,25,Egor Demin,Brigham Young,G,0.0,0.0,0.6354273504273504,NBA Potential,0.0,0.0
+2024-25,26,Dailyn Swain,Xavier,F,0.0,0.0,0.6336309936309936,NBA Potential,0.0,0.0
+2024-25,27,Rytis Petraitis,California,G,0.0,0.0,0.6253174603174603,NBA Potential,0.0,0.0
+2024-25,28,Airious Bailey,Rutgers,G,0.0,0.0,0.6197313797313797,NBA Potential,0.0,0.0
+2024-25,29,Arthur Kaluma,Texas,F,0.0,0.0,0.6197313797313797,NBA Potential,0.0,0.0
+2024-25,30,Carter Bryant,Arizona,G,1.0,14.0,0.6197313797313797,NBA Potential,1.0,1.0
+2024-25,31,Guillermo Diaz Graham,Pittsburgh,F,0.0,0.0,0.6197313797313797,NBA Potential,0.0,0.0
+2024-25,32,Malik Reneau,Indiana,F,0.0,0.0,0.6197313797313797,NBA Potential,0.0,0.0
+2024-25,33,Tahaad Pettiford,Auburn,G,0.0,0.0,0.6035027885027885,NBA Potential,0.0,0.0
+2024-25,34,Isaiah Coleman,Seton Hall,G,0.0,0.0,0.5940674603174598,NBA Potential,0.0,0.0
+2024-25,35,Brandon Garrison,Kentucky,C,0.0,0.0,0.5896031746031746,NBA Potential,0.0,0.0
+2024-25,36,Devin McGlockton,Vanderbilt,F,0.0,0.0,0.5896031746031746,NBA Potential,0.0,0.0
+2024-25,37,Tre White,Illinois,G,0.0,0.0,0.5896031746031746,NBA Potential,0.0,0.0
+2024-25,38,Kasparas Jakucionis,Illinois,G,0.0,0.0,0.579390142021721,NBA Potential,0.0,0.0
+2024-25,39,Chase Ross,Marquette,G,0.0,0.0,0.5763850791974366,NBA Potential,0.0,0.0
+2024-25,40,Ian Jackson,North Carolina,G,0.0,0.0,0.5688667061027308,NBA Potential,0.0,0.0
+2024-25,41,Karter Knox,Arkansas,F,0.0,0.0,0.5663553113553114,NBA Potential,0.0,0.0
+2024-25,42,Silas Demary Jr.,Georgia,G,0.0,0.0,0.558021978021978,NBA Potential,0.0,0.0
+2024-25,43,Kobe Johnson,UCLA,F,0.0,0.0,0.5561422787738577,NBA Potential,0.0,0.0
+2024-25,44,Tyrese Proctor,Duke,G,2.0,49.0,0.5508791208791208,NBA Potential,1.0,1.0
+2024-25,45,Mouhamed Dioubate,Alabama,F,0.0,0.0,0.5488888888888889,NBA Potential,0.0,0.0
+2024-25,46,Wesley Yates III,Southern California,G,0.0,0.0,0.5488888888888889,NBA Potential,0.0,0.0
+2024-25,47,Jizzle James,Cincinnati,G,0.0,0.0,0.5327838827838829,NBA Potential,0.0,0.0
+2024-25,48,Solomon Washington,Texas A&M,F,0.0,0.0,0.5321627647714603,NBA Potential,0.0,0.0
+2024-25,49,Amael L'Etang,Dayton,F,0.0,0.0,0.5318699955015743,NBA Potential,0.0,0.0
+2024-25,50,Hunter Sallis,Wake Forest,G,0.0,0.0,0.5256410256410255,NBA Potential,1.0,1.0
