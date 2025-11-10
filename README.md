@@ -88,10 +88,8 @@ It “recovers” 19 players missed by the baseline model and provides well-cali
 
 The final system generates **draft boards per season**, ranking the top 30 players by predicted NBA success probability.  
 
-- **2015-16:** Correctly elevates Ben Simmons, Jamal Murray, and Pascal Siakam.  
+- **2015-16:** Correctly elevates Jamal Murray, Pascal Siakam and others.  
 - **2023-24 / 2024-25:** Highlights current prospects (e.g., Stephon Castle, Collin Murray-Boyles) with probabilities from 0.3–0.8.  
-
-These charts provide interpretable, data-driven draft guidance for scouting and front-office analytics.
 
 ---
 
@@ -103,5 +101,3 @@ This pipeline delivers a reproducible and interpretable framework for NBA draft 
 - **Baseline RF:** AUC = 0.93 | Recall = 50.8 %  
 - **Final SMOTE + Calibrated RF:** AUC = 0.94 | Recall = 65.9 % | Brier = 0.02  
 - **19 previously missed NBA players** correctly identified  
-
-Overall, the model combines predictive power and explainability—serving as a foundation for quantitative scouting tools, effectively **“Moneyball for the NBA Draft.”**
